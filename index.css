@@ -1,0 +1,19 @@
+.hero {
+  background-image: url('./assets/images/home-hero-desktop.jpg');
+  min-height: 60vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.index-icon {
+  width: 20%;
+}
+
+.index-image {
+  border-radius: 50%;
+  width: 70%;
+}
+
+.about-image {
+  border-radius: 50%;
+}
